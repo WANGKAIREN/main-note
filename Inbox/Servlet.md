@@ -48,3 +48,4 @@ JavaEE 是一种规范？而不是实际的代码？ tomcat 实现了JavaEE？
 [JavaEE的13种核心规范_不会英语的程序员不是好开拓者-CSDN博客](https://blog.csdn.net/weienjun/article/details/78883439)
 
 [JAVA的servlet一定要用TOMCAT服务器吗](https://zhidao.baidu.com/question/303830845456390084.html)
+[glassfish和tomcat各自的优势和劣势有哪些？ - 知乎](https://www.zhihu.com/question/20039000/answer/102719430)
